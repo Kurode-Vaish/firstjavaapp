@@ -1,4 +1,4 @@
-package utility;
+
 
 public class ToggleCase {
 	public static String toggle(String str)
